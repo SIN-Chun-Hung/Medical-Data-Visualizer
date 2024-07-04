@@ -1,6 +1,6 @@
 # Medical Data Visualizer
 
-This Demographic Data Analyzer code is one of the project of freeCodeCamp Data Analysis with Python Course.
+This Medical Data Visualizer code is one of the project of freeCodeCamp Data Analysis with Python Course.
 
 This project owner information:
 
